@@ -29,7 +29,6 @@ How are sales performing over time, who is driving them, and which salespeople a
 - **Cumulative sales** area chart
 
 ## Key Techniques
-- Custom DAX measure that generates **SVG graphics** inside a table
 - **Field parameters** so users can change the dimension on the bar chart
 - Time intelligence measures, including current year and same period last year
 - Sparklines and conditional formatting
@@ -46,7 +45,6 @@ How are sales performing over time, who is driving them, and which salespeople a
 ## Files
 - `Sales_Dashboard.pbix`: the Power BI file (open in Power BI Desktop)
 - `images/`: dashboard screenshots
-- `DAX-measures.md`: the DAX measures used
 
 ## Tools
 Power BI Desktop, DAX, Power Query
