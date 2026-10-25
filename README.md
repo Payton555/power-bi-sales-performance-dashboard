@@ -53,4 +53,4 @@ Power BI Desktop, DAX, Power Query
 Dataset and project brief from Christine Payton's Udemy course. I customized the dashboard, including the SVG bullet chart and the Red Dot indicator, with my own modifications to the DAX measures.
 
 ## Author
-[Payton] | [www.linkedin.com/in/payton-adams-2a1415386]
+Payton | www.linkedin.com/in/payton-adams-2a1415386
