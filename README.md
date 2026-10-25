@@ -36,10 +36,13 @@ How are sales performing over time, who is driving them, and which salespeople a
 - Whole-number rounding in the SVG measure to avoid decimal-separator problems on regional settings that use a comma
 
 ## Key Insights
-- [Finding 1, e.g. "Sales peaked in (month)"]
-- [Finding 2, e.g. "X of Y salespeople met their goal"]
-- [Finding 3, e.g. "Several salespeople are below 50% of goal"]
-
+- **Sales are up 9% year over year**, reaching **$5.0M** for the current year, with **November 2024** the strongest month at about **$880K**.
+- **Growth was strong in most months** (Jun to Dec all up 4% to 12%), but **April and May were down about 27% and 24%** compared with the same months last year, which is worth investigating.
+- **Paris and Miami lead on sales at about $1.14M each**, while **Houston is lowest at about $0.53M**. That is roughly half the top stores' sales.
+- **Isaac Caldwell is the top salesperson at about $185K**, followed by Angie Eaton at about $150K.
+- **Weekends in Nov and Dec are the busiest**, peaking on Sundays in December at over $10K.
+- **Several salespeople are well behind their individual goals**, with many below 20% in the period shown.
+- **Next step:** investigate the April/May dip and why several salespeople are far behind their goals.
 ## Files
 - `Sales_Dashboard.pbix`: the Power BI file (open in Power BI Desktop)
 - `images/`: dashboard screenshots
