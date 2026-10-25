@@ -5,6 +5,10 @@ An interactive Power BI dashboard that tracks sales performance and each salespe
 ![Sales page](images/sales-page.png)
 ![Progress to Goal page](images/progress-to-goal.png)
 
+## Dashboard Walkthrough
+
+https://github.com/user-attachments/assets/bee8aa5a-997a-4e32-a980-07772d53a09c
+
 ## Business Question
 How are sales performing over time, who is driving them, and which salespeople are on track to hit their goals?
 
