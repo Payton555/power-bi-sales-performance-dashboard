@@ -48,7 +48,6 @@ How are sales performing over time, who is driving them, and which salespeople a
 - **Several salespeople are well behind their individual goals**, with many below 20% in the period shown.
 - **Next step:** investigate the April/May dip and why several salespeople are far behind their goals.
 ## Files
-- `Sales_Dashboard.pbix`: the Power BI file (open in Power BI Desktop)
 - `images/`: dashboard screenshots
 
 ## Tools
